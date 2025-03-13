@@ -1,0 +1,16 @@
+{
+  "name": "squirreldb-v2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SquirrelDBTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Haywood",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "proper-lockfile": "^4.1.2",
+    "uuid": "^11.0.5"
+  }
+}
